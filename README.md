@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 
 <img src="./public/logo.png" alt="Honrly" width="140" height="140" />
@@ -7,7 +6,7 @@
 
 ### local-first interview integrity, without the lock-in
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![License: AGPL v3](https://img.shields.io/badge/license-AGPL%20v3-blue.svg)](./LICENSE)
 [![Built with Tauri](https://img.shields.io/badge/built%20with-Tauri%202-24C8DB.svg)](https://tauri.app)
 [![React](https://img.shields.io/badge/React-18-61DAFB.svg)](https://react.dev)
 [![Rust](https://img.shields.io/badge/Rust-stable-DEA584.svg)](https://www.rust-lang.org)
@@ -91,8 +90,5 @@ src-tauri/                # Tauri (Rust) backend
 
 ## License
 
-MIT. See `LICENSE`.
-=======
-# Honrly-app
-Open-source Rust app for macOS and Windows. Detects Cluely, LockedIn, Parakeet-style tools, and other interview copilots. Don’t cheat :)!
->>>>>>> 546b1d43af566726b510f08d8f464cd6d767f683
+GNU Affero General Public License v3.0 (AGPL-3.0). See [`LICENSE`](./LICENSE).
+

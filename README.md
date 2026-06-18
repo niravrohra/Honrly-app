@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <img src="./public/logo.png" alt="Honrly" width="140" height="140" />
@@ -91,3 +92,7 @@ src-tauri/                # Tauri (Rust) backend
 ## License
 
 MIT. See `LICENSE`.
+=======
+# Honrly-app
+Open-source Rust app for macOS and Windows. Detects Cluely, LockedIn, Parakeet-style tools, and other interview copilots. Don’t cheat :)!
+>>>>>>> 546b1d43af566726b510f08d8f464cd6d767f683

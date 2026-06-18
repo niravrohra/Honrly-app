@@ -18,7 +18,7 @@
 
 ---
 
-A **local-first, self-hostable interview-integrity tool** built for a simple reality: "undetectable" tools are not magic. Apps like **Cluely**, **LockedIN**, **Interview Coder**, and **Parkaeet** market themselves as invisible, but that is marketing fiction, not a reality, THEY ARE SUPER EASY TO DETECT. FEEL FREE TO RUN THIS CODE AND FIND IT OUT! : )
+A **local-first, self-hostable interview-integrity tool** built for a simple reality: "undetectable" tools are not magic. Apps like **Cluely**, **LockedIN**, **Interview Coder**, and **Parkaeet** market themselves as invisible, but that is marketing fiction, not a reality, THEY ARE SUPER EASY TO DETECT. FEEL FREE TO FIND IT OUT for yourself! : )
  
 Honrly runs on your own machine and does two things:
 

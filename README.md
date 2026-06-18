@@ -18,12 +18,16 @@
 
 ---
 
-A **local-first, self-hostable interview-integrity tool**. Honrly runs on your own machine and does two things:
+A **local-first, self-hostable interview-integrity tool** built for a simple reality: "undetectable" tools are not magic. Apps like **Cluely**, **LockedIN**, **Interview Coder**, and **Parkaeet** market themselves as invisible, but that is marketing fiction, not a technical guarantee. Honrly runs on your own machine and does two things:
 
 1. **Self-Monitor** — scans your running processes in real time and flags known AI cheating tools such as **Cluely** and **Interview Coder**, plus any custom apps you add to a watchlist. Everything happens locally; nothing is uploaded.
 2. **Video Call Preview** — shows exactly how a monitored video call will look, then lets you connect a real room from a hosted provider (Daily.co) **or your own self-hosted service** (e.g. Jitsi via iframe).
 
 There are **no accounts, no login, and no company database**. This is a clean, hackable starting point you can build on.
+
+## Purpose
+
+Interviews should reward preparation, skill, and honest effort. People put real time into studying, practicing, and showing up ready; they deserve a fair shot without being undercut by tools that try to turn cheating into a product.
 
 ## Tech stack
 

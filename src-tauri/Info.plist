@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.honrly.honrlyapp</string> <!-- ← Must match your `tauri.conf.json` -->
+
+    <key>CFBundleName</key>
+    <string>Honrly</string>
+
+    <key>CFBundleDisplayName</key>
+    <string>Honrly</string>
+
+    <key>CFBundleVersion</key>
+    <string>0.1.0</string>
+
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+
+    <key>CFBundleExecutable</key>
+    <string>Honrly</string>
+
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.productivity</string>
+
+    <key>NSCameraUsageDescription</key>
+    <string>Honrly needs access to your camera for video interviews.</string>
+
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Honrly needs access to your microphone for interview audio.</string>
+
+
+  </dict>
+</plist>

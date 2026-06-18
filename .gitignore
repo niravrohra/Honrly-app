@@ -1,0 +1,39 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+.pnpm-store/
+
+# build output
+/dist
+/build
+/out
+
+# Tauri / Rust
+/src-tauri/target
+/src-tauri/gen/schemas
+
+# release artifacts
+/release
+*.zip
+*.app.tar.gz
+*.app.tar.gz.sig
+
+# secrets (never commit signing keys or env files)
+.env
+.env.*
+!.env.example
+*.entitlements
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+pglite-debug.log
+
+# typescript
+*.tsbuildinfo
+
+# os
+.DS_Store
